@@ -1,2 +1,2 @@
-# Meus projetos
-primeiro repositório do curso de git
+# Olá mundo!
+Seja bem vindo ao meu primeiro repositório git.
